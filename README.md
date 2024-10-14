@@ -1,4 +1,4 @@
-# **IMDB Sentiment Analysis**
+# **Sentiment Analysis of Movie Reviews Using ML and NLP**
 
 
 ### *Sentiment analysis of IMDB dataset.*
